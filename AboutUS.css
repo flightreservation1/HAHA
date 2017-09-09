@@ -1,0 +1,46 @@
+body{
+	background-size:800px
+	background-color:black;
+}
+h1,h2{
+color:white;
+}
+input {
+    line-height: normal;
+    color: black;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    color: black;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 1px;
+}
+p{
+color:white;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background: url('flight1320x742.jpg');
+}
+input[type=text], select {
+    text-align: center;
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: center;
+    border: 1px solid #17e2e0;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+textarea {
+    font-family: monospace;
+    border-color: #17e2e0(169, 169, 169);
+}

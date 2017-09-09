@@ -1,0 +1,14 @@
+body{
+	background: url('flight1320x742.jpg') no-repeat;
+	background-size:800px	
+	background-color:black;
+}
+h1,h2{
+color: black;
+}
+p{
+color:white;
+}
+element.style {
+    color: #150707;
+}
